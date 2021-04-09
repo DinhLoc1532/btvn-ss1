@@ -1,0 +1,14 @@
+_ OOP là tạo ra các đối tượng trong code trừu tượng hóa các đối tượng
+
+_ ĐỐI TƯỢNG gồm 2 thông tin: thuộc tính(là đặc điểm của dối tượng như mắt, mũi, môi,...) và 
+                             phương thức(là hành động mà đối tượng đó có thể thực hiện như chạy, nhảy, ...)
+
+_ LỚP là kiểu dữ liệu bao gồm các thuộc tính và các phương thức được định nghĩa từ trước
+
+_ 4 tính chất: 
+	Tính đóng gói: Các thuộc tính và phương thức của đối tượng sẽ được đóng gói vào một kiểu dữ liệu gọi là class
+	Tính kế thừa: Cho phép xây dựng một lớp mới dựa trên các định nghĩa của lớp đã có. Lớp cha có thể chia sẽ dữ 
+		      liệu và phương thức cho các lớp con
+	Tính đa hình: Đa hình là khái niệm mà hai hoặc nhiều lớp có những phương thức giống nhau nhưng có thể thực thi
+		      theo những cách thức khác nhau
+	Tính trừu tượng: 
